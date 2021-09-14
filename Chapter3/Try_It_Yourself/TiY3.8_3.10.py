@@ -1,4 +1,4 @@
-#!/usr/bin/env3/ python3
+#!/usr/bin/env/ python3
 '''3-8. Seeing the World: Think of at least five places in the world you’d like to
 visit.
 •	 Store the locations in a list. Make sure the list is not in alphabetical order.
